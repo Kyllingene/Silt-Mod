@@ -40,6 +40,8 @@ Future Plans:
        - Silicon
        - Silt (LOTS)
        - Water
+    - Outputs:
+       - Thorium
        
  - Turret: Wavelength
     - 4x4
@@ -49,5 +51,15 @@ Future Plans:
     - Artillery
     - Uses plastanium, blast compound, and titanium
     - Very expensive
+ 
+ - Factory: Sand Filter
+    - Filters sand out of silt
+    - Uses:
+       - Silt
+       - Water
+       - Power
+       - Graphite
+    - Outputs:
+       - Sand
 
 Download siltmod.zip and place directly in mods folder OR import through Mindustry's mod selection.

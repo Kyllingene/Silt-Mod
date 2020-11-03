@@ -39,7 +39,7 @@ Future Plans:
        - Titanium
        - Silicon
        - Silt (LOTS)
-       - Water
+       - Cryofluid
     - Outputs:
        - Thorium
        
@@ -56,7 +56,6 @@ Future Plans:
     - Filters sand out of silt
     - Uses:
        - Silt
-       - Water
        - Power
        - Graphite
     - Outputs:

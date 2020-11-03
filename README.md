@@ -49,3 +49,5 @@ Future Plans:
     - Artillery
     - Uses plastanium, blast compound, and titanium
     - Very expensive
+
+Download siltmod.zip and place directly in mods folder OR import through Mindustry's mod selection.
